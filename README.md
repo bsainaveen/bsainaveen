@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bsainaveen | Aspiring transportation researcher
-- 👀 I’m interested in transportation research. My other interests are photo editing and poster making in photoshop and data analysis and visualisation
+- 👀 I’m interested in transportation research - public transit design and operations, freight transportation, transport equity and transport and environment. My other interests are photo editing and poster making in photoshop and data analysis and visualisation
 - 🌱 I’m currently learning simulation and optimisation techniques.
 - 💞️ I’m looking to collaborate on transportation research and applications of IoT, ML, deep learning and data science in transportation engineering
 - 📫 How to reach me: bsnaveenaecs2@gmail.com
